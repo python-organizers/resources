@@ -73,6 +73,18 @@ Things to consider:
 - does it provide catering? can you bring your own food/hire your own caterer? Do you even need caterer?
 - ???
 
+Choosing a date
+---------------
+
+Things to consider:
+
+- Will it conflict with other conferences? Does it matter?
+- Weekday vs weekend?
+- ???
+
+See also: List of other `Python conferences and dates <>https://github.com/python-organizers/conferences`_.
+
+
 Spreading the word
 ------------------
 
