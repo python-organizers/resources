@@ -12,6 +12,12 @@ The goal is to share information, lessons learned, and to help improve our futur
 .. contents::
 
 
+Organizing Team
+---------------
+
+- What are the roles to be filled?
+- What are their responsibilities?
+
 CFP
 ---
 
@@ -20,6 +26,7 @@ Things to consider:
 - When should CFP be started, ended, how long?
 - How to promote CFP?
 - Will you have keynotes / invited speakers? How to choose a keynote?
+- How far ahead do you usually invite keynote speakers?
 - ???
 
 CFP tools
@@ -100,6 +107,7 @@ Things to consider:
 
 - Will it conflict with other conferences? Does it matter?
 - Weekday vs weekend?
+- Will it conflict with a religious holiday? School holidays? Mother/Father's Day etc?
 - ???
 
 See also: List of other `Python conferences and dates <https://github.com/python-organizers/conferences>`_.
@@ -164,6 +172,13 @@ Related resources
 - `The Less Obvious Conference Checklist <https://github.com/mxsasha/lessobviouschecklist>`_ by Sasha Romijn
 - `How we designed an inclusivity-first conference on a shoestring budget and short timeline <https://www.youtube.com/watch?v=C7ZhMnfUKIA>`_ PyCon US talk by Christopher Neugebauer, Josh Simmons, and Sam Kitajima-Kimbrel
  
- 
-Anything else?
 
+Need more information / advice
+------------------------------
+
+Do we have contact info of conference organizers?
+
+Anything else?
+--------------
+
+Create a PR or an issue.
