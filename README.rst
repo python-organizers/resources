@@ -125,5 +125,12 @@ Sponsorship
 
 ???
 
+Related resources
+-----------------
+
+- `The Less Obvious Conference Checklist <https://github.com/mxsasha/lessobviouschecklist>`_ by Sasha Romijn
+- `How we designed an inclusivity-first conference on a shoestring budget and short timeline <https://www.youtube.com/watch?v=C7ZhMnfUKIA>`_ PyCon US talk by Christopher Neugebauer, Josh Simmons, and Sam Kitajima-Kimbrel
+ 
+ 
 Anything else?
 
