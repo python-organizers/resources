@@ -125,5 +125,45 @@ Sponsorship
 
 ???
 
+Video recording
+---------------
+
+Choose a license.
+
+See the following note from Ewa:
+
+
+
+   We want to remind you all to review your speaker agreements and YouTube licenses
+   to ensure they reflect the intentions of   your event. 
+
+   The Creative Commons license (https://support.google.com/youtube/answer/2797468?hl=en)
+   allows others to edit the videos you post. If you choose to go the route of Creative Commons,
+   you should check that your speaker agreement allows this type of license arrangement. 
+
+   The YouTube Standard license allows sharing your content via play lists, unedited.
+
+   We are not suggesting one way or another, we want to present the facts and let
+   you all decide what works best for your event. PyCon US recently experienced a
+   situation that ended with us changing our YouTube license from Creative Commons
+   to the Standard YouTube license. We want all organizers to be informed of the options and consequences of each.
+
+
+Video recording tools
+`````````````````````
+
+- `Next Day Video <http://nextdayvideo.com/>`_
+- `PyVideo <https://pyvideo.org/>`_
+- `YouTube <https://www.youtube.com/>`_
+- ???
+
+
+Related resources
+-----------------
+
+- `The Less Obvious Conference Checklist <https://github.com/mxsasha/lessobviouschecklist>`_ by Sasha Romijn
+- `How we designed an inclusivity-first conference on a shoestring budget and short timeline <https://www.youtube.com/watch?v=C7ZhMnfUKIA>`_ PyCon US talk by Christopher Neugebauer, Josh Simmons, and Sam Kitajima-Kimbrel
+ 
+ 
 Anything else?
 
