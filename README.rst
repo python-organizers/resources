@@ -56,7 +56,17 @@ Diversity and inclusion
 Code of Conduct
 ---------------
 
-???
+Required if you'd like grant from The PSF.
+What should be in CoC:
+
+- how to report
+- who will handle the report
+- what's covered
+- where does CoC the apply
+- enforcement policy
+- etc
+
+Is there a list of known offenders in the community, that organizers need to know of? 
 
 CoC Tools
 `````````
@@ -72,6 +82,11 @@ Things to consider:
 - accessability (wheelchair, all inclusive bathrooms, nursing facilities, public transit, parking, etc)
 - equipment: projector, etc
 - does it provide catering? can you bring your own food/hire your own caterer? Do you even need caterer?
+- Sprint venue
+- Single track or multi track?
+- Tutorial/workshop venue
+- Space for sponsor booths
+- insurance
 - ???
 
 Choosing a date
@@ -83,13 +98,23 @@ Things to consider:
 - Weekday vs weekend?
 - ???
 
-See also: List of other `Python conferences and dates <>https://github.com/python-organizers/conferences`_.
+See also: List of other `Python conferences and dates <https://github.com/python-organizers/conferences>`_.
 
+Money
+-----
+
+- See The PSF's `Grants Program <https://www.python.org/psf/grants/>`_
+- How will you receive income? Do you need to create a non-profit org?
+- Will you have grants / financial aid for speakers / attendees?
+- Is there guideline of how much should be allocated for grants?
+- ???
 
 Spreading the word
 ------------------
 
-???
+- `Submit your event <https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event>`_ to be listed in `Python Events Calendar <https://www.python.org/events/>`_.
+- Share with local meetups
+- 
 
 Sponsorship
 -----------
