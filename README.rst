@@ -5,6 +5,10 @@ Share docs, tools, lists and whatnot for organizing a Python conference.
 
 Contributions welcome from anyone!!
 
+If you are a conference organizer, we can give you direct access to the repository.
+The goal is to share information, lessons learned, and to help improve our future conferences.
+`Open an issue <https://github.com/python-organizers/resources/issues/new?template=request-for-access-as-a-conference-organizer-.md>`_ to get yourself added to the repo.
+
 .. contents::
 
 
