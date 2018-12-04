@@ -15,6 +15,7 @@ Things to consider:
 
 - When should CFP be started, ended, how long?
 - How to promote CFP?
+- Will you have keynotes / invited speakers? How to choose a keynote?
 - ???
 
 CFP tools
