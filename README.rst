@@ -132,15 +132,15 @@ Choose a license.
 
 See the following note from Ewa:
 
-```
-We want to remind you all to review your speaker agreements and YouTube licenses to ensure they reflect the intentions of your event. 
+::
+   We want to remind you all to review your speaker agreements and YouTube licenses to ensure they reflect the intentions of your event. 
 
-The Creative Commons license (https://support.google.com/youtube/answer/2797468?hl=en) allows others to edit the videos you post. If you choose to go the route of Creative Commons, you should check that your speaker agreement allows this type of license arrangement. 
+   The Creative Commons license (https://support.google.com/youtube/answer/2797468?hl=en) allows others to edit the videos you post. If you choose to go the route of Creative Commons, you should check that your speaker agreement allows this type of license arrangement. 
 
-The YouTube Standard license allows sharing your content via play lists, unedited.
+   The YouTube Standard license allows sharing your content via play lists, unedited.
 
-We are not suggesting one way or another, we want to present the facts and let you all decide what works best for your event. PyCon US recently experienced a situation that ended with us changing our YouTube license from Creative Commons to the Standard YouTube license. We want all organizers to be informed of the options and consequences of each.
-```
+   We are not suggesting one way or another, we want to present the facts and let you all decide what works best for your event. PyCon US recently experienced a situation that ended with us changing our YouTube license from Creative Commons to the Standard YouTube license. We want all organizers to be informed of the options and consequences of each.
+
 
 Video recording tools
 `````````````````````
