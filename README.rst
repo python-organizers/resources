@@ -36,6 +36,7 @@ A list of tools you can use (in alphabetical order):
 
 - `Google Forms <https://www.google.ca/forms/about/>`_
 - `Papercall <https://www.papercall.io/>`_
+- `pretalx <https://pretalx.com/p/about/>`_
 - `Symposion <https://github.com/pinax/symposion>`_
 - ???
 
@@ -55,13 +56,22 @@ Ticketing tools
 (in alphabetical order)
 
 - `Eventbrite <https://www.eventbrite.ca/>`_
+- `pretix <https://pretix.eu/>`_
 - `Tito <https://ti.to/>`_
 - ???
 
 Diversity and inclusion
 -----------------------
 
-???
+Things to consider:
+
+- ???
+
+Diversity and inclusion tools
+`````````````````````````````
+
+- `Grorg <http://grorg.aeracode.org/>`_
+- ???
 
 
 Code of Conduct
