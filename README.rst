@@ -27,6 +27,11 @@ Things to consider:
 - How to promote CFP?
 - Will you have keynotes / invited speakers? How to choose a keynote?
 - How far ahead do you usually invite keynote speakers?
+- Will you have sponsored talks?
+- What types of events do you want to offer? (Workshops, Panels, Lectures, ...)
+- Length of slots (by type).
+- What information do you need? (Description for program, additional infos, requirements)
+- License agreement if you want to publish paper/abstract/video. (Recommend CC-by-4.0)
 - ???
 
 CFP tools
@@ -34,6 +39,7 @@ CFP tools
 
 A list of tools you can use (in alphabetical order):
 
+- `Frab <https://github.com/frab/frab>`_
 - `Google Forms <https://www.google.ca/forms/about/>`_
 - `Papercall <https://www.papercall.io/>`_
 - `pretalx <https://pretalx.com/p/about/>`_
@@ -48,6 +54,8 @@ Things to consider:
 - when should you start selling tickets?
 - how many?
 - what pricing tiers?
+- early bird sale?
+- do speakers need to buy tickets?
 - ???
 
 Ticketing tools
@@ -143,6 +151,11 @@ Sponsorship
 
 ???
 
+Sponsorshop tools
+-----------------
+
+- `sabot <https://github.com/froscon/SaBoT>`_ 
+
 Video recording
 ---------------
 
@@ -175,13 +188,27 @@ Video recording tools
 - `YouTube <https://www.youtube.com/>`_
 - ???
 
+Volunteers
+----------
+
+- Are volunteers needed? (Registration, Info, Moderation, Tech Support, Food/Drinks, Setting up/Tearing down venue, ...)
+- How many?
+- Motivation to volunteer (Reduced/free entry, free shirt/food/drinks)
+
+Volunteer scheduling tools
+--------------------------
+
+- `Engelsystem <http://engelsystem.de/>`_
 
 Related resources
 -----------------
 
 - `The Less Obvious Conference Checklist <https://github.com/mxsasha/lessobviouschecklist>`_ by Sasha Romijn
 - `How we designed an inclusivity-first conference on a shoestring budget and short timeline <https://www.youtube.com/watch?v=C7ZhMnfUKIA>`_ PyCon US talk by Christopher Neugebauer, Josh Simmons, and Sam Kitajima-Kimbrel
+- `Konferenzorganisation 101 - Eine Übersicht über OS Konferenzorganisationstools <https://media.ccc.de/v/froscon2016-1833-konferenzorganisation_101>`_ by Carina Haupt (German)
  
+
+
 
 Need more information / advice
 ------------------------------
