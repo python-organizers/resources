@@ -31,7 +31,7 @@ Things to consider:
 - What types of events do you want to offer? (Workshops, Panels, Lectures, ...)
 - Length of slots (by type).
 - What information do you need? (Description for program, additional infos, requirements)
-- License agreement if you want to publish paper/abstract/video. (Recommend CC-by-4.0)
+- License agreement if you want to publish paper/abstract/video. (Recommend `CC-BY-4.0 <https://creativecommons.org/licenses/by/4.0/>`__)
 - ???
 
 CFP tools
