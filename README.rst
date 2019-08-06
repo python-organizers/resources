@@ -44,6 +44,7 @@ A list of tools you can use (in alphabetical order):
 - `Papercall <https://www.papercall.io/>`_
 - `pretalx <https://pretalx.com/p/about/>`_
 - `Symposion <https://github.com/pinax/symposion>`_
+- `Yak Bak <https://gitlab.com/bigapplepy/yak-bak>`_ (developed/used by PyGotham)
 - ???
 
 Ticketing
