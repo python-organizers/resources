@@ -109,7 +109,7 @@ Choosing a Venue
 
 Things to consider:
 
-- accessability (wheelchair, all inclusive bathrooms, nursing facilities, public transit, parking, etc)
+- accessibility (wheelchair, all inclusive bathrooms, nursing facilities, public transit, parking, etc)
 - equipment: projector, etc
 - does it provide catering? can you bring your own food/hire your own caterer? Do you even need caterer?
 - Sprint venue
@@ -152,7 +152,7 @@ Sponsorship
 
 ???
 
-Sponsorshop tools
+Sponsorship tools
 -----------------
 
 - `sabot <https://github.com/froscon/SaBoT>`_ 
